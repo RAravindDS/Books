@@ -1,0 +1,44 @@
+[
+    [
+        "navigate home",
+        {
+            "entities": [
+                [
+                    9,
+                    13,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "navigate to office",
+        {
+            "entities": [
+                [
+                    12,
+                    18,
+                    "GPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "navigate",
+        {
+            "entities": []
+        }
+    ],
+    [
+        "navigate to Oxford Street",
+        {
+            "entities": [
+                [
+                    12,
+                    25,
+                    "GPE"
+                ]
+            ]
+        }
+    ]
+]
